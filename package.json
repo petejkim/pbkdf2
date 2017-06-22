@@ -14,12 +14,7 @@
   },
   "license": "MIT",
   "author": "Daniel Cousens",
-  "browser": {
-    "./index.js": "./browser.js",
-    "./lib/sync.js": "./lib/sync-browser.js"
-  },
   "files": [
-    "browser.js",
     "index.js",
     "lib/"
   ],
